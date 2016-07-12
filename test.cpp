@@ -11,6 +11,14 @@ class Nothing{
 			return x;
 		}
 };
+class Circle{
+	private:
+	int x;
+	int y;
+	
+	
+	
+}
 
 int main(){
 	Nothing n{3};
